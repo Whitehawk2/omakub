@@ -1,3 +1,5 @@
+# TODO: Long term this needs to go, short term I still don't like that it's a ppa.
+
 # Install mise for managing multiple versions of languages. See https://mise.jdx.dev/
 sudo apt update -y && sudo apt install -y gpg sudo wget curl
 sudo install -dm 755 /etc/apt/keyrings

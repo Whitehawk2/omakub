@@ -1,3 +1,6 @@
+# TODO: Reliant on Gnome, which we longterm want to decouple.
+#       Need to go over this, there might be some nice oppertunities for niceness. what. Alsom needs sifting through.
+
 # Alt+F4 is very cumbersome
 gsettings set org.gnome.desktop.wm.keybindings close "['<Super>w']"
 

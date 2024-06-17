@@ -1,3 +1,4 @@
+# Todo: Decide if this needs to change or not (i.e Ayamir's + CGPT?). In any case, will this work as Nix?
 cd /tmp
 wget -O nvim.tar.gz "https://github.com/neovim/neovim/releases/latest/download/nvim-linux64.tar.gz"
 tar -xf nvim.tar.gz

@@ -1,3 +1,5 @@
+# TODO: Make this into a choice of Kitty / Alacritty + Tmux for multiplexing.
+#   Also, install from Nix?
 sudo apt install -y alacritty
 mkdir -p ~/.config/alacritty
 cp ~/.local/share/omakub/configs/alacritty.toml ~/.config/alacritty/alacritty.toml

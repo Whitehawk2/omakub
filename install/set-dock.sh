@@ -1,3 +1,5 @@
+# TODO: Go over and update this. Also, long term: This is dependant on gnome, which is not ideal.
+
 # Favorite apps for dock
 apps=(
 	"google-chrome.desktop"

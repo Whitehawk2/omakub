@@ -1,1 +1,3 @@
-sudo apt install -y fzf ripgrep bat eza zoxide plocate btop apache2-utils fd-find
+# TODO: Move to Nix
+# are these needed? zoxide, plocate
+sudo apt install -y fzf ripgrep bat eza btop fd-find

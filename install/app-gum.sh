@@ -1,3 +1,4 @@
+# TODO: Move to Nix
 # Gum is used for the Omakub commands for tailoring Omakub after the initial install
 cd /tmp
 GUM_VERSION="0.14.1" # Use known good version

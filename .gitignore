@@ -1,0 +1,14 @@
+# Vim/Nvim swp
+*/**/*.swp
+*/**/*.swo
+*/**/*.swn
+*/**/*.swn
+*/**/*.swo
+*/**/*.swp
+*/**/*.swx
+*/**/*.swpx
+*/**/*.swpx
+*/**/*.swx
+
+# Taskell board
+taskell.md

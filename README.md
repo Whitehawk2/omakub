@@ -1,8 +1,18 @@
 # Omakub
 
-Turn a fresh Ubuntu installation into a fully-configured, beautiful, and modern web development system by running a single command. That's the one-line pitch for Omakub. No need to write bespoke configs for every essential tool just to get started or to be up on all the latest command-line tools. Omakub is an opinionated take on what Linux can be at its best.
+Initial fork of Omakub, to retrofit it into a develeap project.
+It will still be an opinionated overall installer and configuration manager that is
+designed to be used on top of an existing Ubuntu installation,
+HOWEVER
+there will be a significant amount of changes to the original project,
+including the shift to Nix, first where PPAs and non apt packages were/are currently used.
 
-Watch the introduction video and read more at [omakub.org](https://omakub.org).
+Longterm goal with the Nix shift is to make it outstanding and composable, such that
+it would be possible to use it on top of any Linux installation, regardless of the usage 
+of other parts of this project.
+
+
+Following sections are the original README.md from the Omakub project.
 
 ## Contributing to the documentation
 
